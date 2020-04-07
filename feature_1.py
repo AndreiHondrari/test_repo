@@ -5,5 +5,5 @@ def a():
 
 
 def b():
-    y = 20
-    print(y)
+    t = 20
+    print(t)
