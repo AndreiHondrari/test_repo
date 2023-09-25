@@ -1,4 +1,6 @@
 
 
 class Feature3:
-    pass
+    x = 1 + 1
+    y = 2 + 2
+    return x * y
