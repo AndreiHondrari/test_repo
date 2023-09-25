@@ -3,4 +3,5 @@
 class Feature3:
     x = 1 + 1
     y = 2 + 2
-    return x * y
+    z = 3 + 3
+    return x * y - z
